@@ -1,2 +1,0 @@
-Напишите программу, которая является адаптером из EntityOutputStream в OutputStream и из
-EntityInputStream в InputStream для заданной Entity.
